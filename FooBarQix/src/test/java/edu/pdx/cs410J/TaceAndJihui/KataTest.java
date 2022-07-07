@@ -10,4 +10,9 @@ public class KataTest
     new Kata();
   }
 
+  @Test
+  void divisibleByThreeReturnsFoo() {
+    
+  }
+
 }
