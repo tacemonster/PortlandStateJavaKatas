@@ -1,8 +1,18 @@
+/*
+    Group: Team Awesome
+      Camilo Schaser-Hughes
+      Ben Truong
+      Tacy Bechtel
+      Yuriy Alexander
+      Alana Gilston
+      Richard Clift
+ */
+
 package edu.pdx.cs410J.TeamAwesome;
 
 import java.util.Objects;
 import java.util.Stack;
-
+  
 /**
  * A class for getting started with a code kata
  *
