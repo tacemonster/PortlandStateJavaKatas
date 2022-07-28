@@ -28,7 +28,7 @@ accordingly
   </parent>
       
   
-  <groupId>edu.pdx.cs410J.YourUserId</groupId>
+  <groupId>edu.pdx.cs410J.tacy</groupId>
       
   
   <artifactId>PortlandStateJavaSummer2022</artifactId>
@@ -46,7 +46,7 @@ accordingly
   <description>Source code written in the Summer 2022 offering of Advanced Programming with Java</description>
       
   
-  <url>http://YourGitHubUserInLowerCase.github.io/PortlandStateJavaSummer2022</url>
+  <url>http://tacemonster.github.io/PortlandStateJavaSummer2022</url>
       
   
   <modules>
@@ -85,7 +85,7 @@ accordingly
     <system>github</system>
             
     
-    <url>https://github.com/YourGitHubUser/PortlandStateJavaSummer2022/issues</url>
+    <url>https://github.com/tacemonster/PortlandStateJavaSummer2022/issues</url>
           
   
   </issueManagement>
@@ -208,7 +208,7 @@ accordingly
         <configuration>
                               
           
-          <topSiteURL>scm:git:git@github.com:YourGithubUser/PortlandStateJavaSummer2022.git</topSiteURL>
+          <topSiteURL>scm:git:git@github.com:tacemonster/PortlandStateJavaSummer2022.git</topSiteURL>
                             
         
         </configuration>
@@ -253,7 +253,7 @@ accordingly
   <scm>
             
     
-    <connection>scm:git:git@github.com:YourGithubUser/PortlandStateJavaSummer2022.git</connection>
+    <connection>scm:git:git@github.com:tacemonster/PortlandStateJavaSummer2022.git</connection>
           
   
   </scm>
@@ -283,7 +283,7 @@ accordingly
       <name>GitHub Pages</name>
                   
       
-      <url>scm:git:git@github.com:YourGithubUser/PortlandStateJavaSummer2022.git</url>
+      <url>scm:git:git@github.com:tacemonster/PortlandStateJavaSummer2022.git</url>
                 
     
     </site>
