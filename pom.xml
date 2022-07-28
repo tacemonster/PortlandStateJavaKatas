@@ -55,7 +55,11 @@ accordingly
     <module>FooBarQix</module>
           
     
+<<<<<<< Updated upstream
     <module>RPNCalculator</module>
+=======
+    <module>RPGCombat</module>
+>>>>>>> Stashed changes
       
   </modules>
       
